@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/addConv"
+        android:icon="@drawable/add"
+        android:showAsAction="always"
+        android:title="Add Conversation"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/Contacts"
+        android:icon="@drawable/vcard"
+        android:title="View Contacts"
+        app:showAsAction="always"/>
+
+</menu>
